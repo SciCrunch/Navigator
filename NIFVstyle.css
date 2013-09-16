@@ -1,0 +1,84 @@
+﻿.Zrightcool {
+	width: 202px; top: 0; right: 0; font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:#436367
+}
+.main{
+	float:left;
+	width:104px;
+}
+.Zdiv{
+	border-style: solid;
+	border-width: thin;
+	border-color: #436367;
+	margin: auto;
+	padding: 8px;
+	float: left;
+}
+.head {
+	
+	margin: 0px;
+	background-image: url('download.png');
+	background-position: 100% 0;
+	background-repeat: no-repeat;
+	height: 25px;
+	padding: 8px 90px 8px 8px;
+	width: 120px;
+	border-left-style: solid;
+	border-color: #CBDEDE;
+	border-width: 2px;
+	width:102px;
+	
+}
+.category {
+	border-color: #CBDEDE;
+	border-width: 1px 1px 1px 2px;
+	margin: 0px;
+	background-position: 100% 0;
+	background-repeat: no-repeat;
+	height: auto;
+	padding: 8px 6px 8px 15px;
+	width: 178px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+h3  {
+    color: #605C4F;
+    font-size:12px;
+    margin: 15px 0 3px;
+    text-transform: uppercase;
+}
+.zh3  {
+	font-weight: bold;	
+    color: #605C4F;
+    font-size: 13px;
+    margin: 15px 0 3px;
+    text-transform: uppercase;
+	display:inline;
+}
+P {margin:0;}
+
+.count{
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#605C4F;
+	font-style:normal;
+	display:inline;
+}
+.headtitle{
+	font-family: Georgia, 'Times New Roman', Times, serif; 
+	text-transform: uppercase; 
+	color: rgb(1, 60, 65); 
+	margin: 0px; 
+	padding: 0px; 
+	font-style: normal; 
+	font-variant: normal; 
+	letter-spacing: normal; 
+	orphans: 2; 
+	font-size:13px;
+	text-indent: 0px; 
+	white-space: normal; 
+	widows: 2; 
+	word-spacing: 0px;
+	background-color: rgb(255, 255, 255); 
+	width: 149px;
+}
